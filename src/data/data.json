@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "A1 Technology Solutions",
+    "paragraph": "Leading the way in technology and development, A1 is your partner for innovation. Supported by the Ministry of Technology, we're based in Cochabamba, Bolivia."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "A1 is at the forefront of technological innovation, with a focus on development and artificial intelligence. Backed by the Ministry of Technology, we aim to drive progress and transform industries from our base in Cochabamba, Bolivia.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Tech Leadership",
+      "Innovation Focus",
+      "Government Support",
+      "Bolivian Base"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "AI Expertise",
+      "Development Drive",
+      "Strategic Location",
+      "Industry Impact"
     ]
   },
   "Gallery": [
@@ -67,118 +67,113 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-code",
+      "name": "Tech Development",
+      "text": "At A1, we specialize in developing cutting-edge technology solutions that drive innovation and progress."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-connectdevelop",
+      "name": "AI Solutions",
+      "text": "We harness the power of artificial intelligence to create intelligent solutions that transform businesses."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cloud",
+      "name": "Cloud Services",
+      "text": "Our cloud services ensure scalability and flexibility, enabling businesses to grow and adapt in a dynamic market."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-globe",
+      "name": "Global Reach",
+      "text": "With a strategic location in Bolivia, A1 is poised to impact both local and international markets with our tech solutions."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-rocket",
+      "name": "Innovation Drive",
+      "text": "Driven by a passion for innovation, A1 is dedicated to exploring new horizons in technology and development."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Data Analytics",
+      "text": "We leverage data analytics to provide insights that drive informed decisions and strategic business moves."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"A1 has revolutionized our approach to technology. Their innovative solutions and expert guidance have been invaluable.\"",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"Partnering with A1 has been a game-changer. Their commitment to excellence and innovation is unmatched.\"",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"A1's expertise in AI and technology development has propelled our business to new heights. Highly recommended.\"",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
-  "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
-    }
-  ],
-  "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
-  },
-  "Features": [
-    {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    }
-  ]
-}
+            "text": "\"The support from A1 and the Ministry of Technology has been instrumental in our success. Their innovative solutions are top-notch.\"",
+            "name": "Johnathan Doe"
+          },
+          {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"A1's approach to technology development is truly groundbreaking. Their team's expertise has been invaluable to our growth.\"",
+            "name": "John Doe"
+          },
+          {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Working with A1 has been a transformative experience. Their dedication to pushing the boundaries of technology is inspiring.\"",
+            "name": "Johnathan Doe"
+          }
+        ],
+        "Team": [
+          {
+            "img": "img/team/01.jpg",
+            "name": "Mateo Andrey Durán",
+            "job": "Chief Executive Officer (CEO)"
+          },
+          {
+            "img": "img/team/02.jpg",
+            "name": "Eduardo Quiroz",
+            "job": "Development Lead"
+          },
+          {
+            "img": "img/team/03.jpeg",
+            "name": "Nikolas Vasquez",
+            "job": "Marketing Leader"
+          }
+        ],
+        "Contact": {
+          "address": "América Avenue and Pantaleón Dalence Street, Paseo Aranjuez complex, Tower 1, 12th floor.",
+          "phone": "+591 76125316",
+          "email": "info@studiosa1.com",
+          "facebook": "https://www.facebook.com/people/A1-Studios/61552989165142",
+          "instagram": "https://www.instagram.com/a1studiosbo/",
+          "youtube": "youtube.com/A1TechSolutions"
+        },
+        "Features": [
+          {
+            "icon": "fa fa-users",
+            "title": "Expert Team",
+            "text": "Our team of experts is dedicated to delivering top-notch technology solutions that drive progress and innovation."
+          },
+          {
+            "icon": "fa fa-lightbulb-o",
+            "title": "Innovative Solutions",
+            "text": "A1 specializes in creating innovative solutions that leverage the latest in technology and artificial intelligence."
+          },
+          {
+            "icon": "fa fa-comments",
+            "title": "Collaborative Approach",
+            "text": "We believe in collaboration and work closely with our clients and the Ministry of Technology to achieve outstanding results."
+          },
+          {
+            "icon": "fa fa-rocket",
+            "title": "Cutting-Edge Tech",
+            "text": "A1 is at the forefront of technology, constantly exploring new horizons and developing cutting-edge solutions."
+          }
+        ]
+      }
